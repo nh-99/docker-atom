@@ -3,7 +3,6 @@
 # Les instructions d'installation originales proviennent de : https://www.accesstomemory.org/en/docs/2.2/admin-manual/installation/linux/#installation-linux
 
 FROM ubuntu:trusty
-
 MAINTAINER Dominic Boisvert <dominic.boisvert.1@umontreal.ca>
 
 # Variables pour notre dockerfile.
